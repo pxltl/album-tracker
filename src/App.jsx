@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Navbar from "./components/Navbar.jsx";
+import Navbar from "./components/NavBar.jsx";
 import Player from "./components/Player.jsx";
 import AiPicks from "./pages/AiPicks.jsx";
 import Discover from "./pages/Discover.jsx";
